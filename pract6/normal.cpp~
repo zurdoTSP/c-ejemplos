@@ -1,0 +1,10 @@
+#include <iostream>
+#include <vector>
+
+#include "poligono2D.hpp"
+#include "triangulo2D.hpp"
+#include "cuadrado2D.hpp"
+main()
+{
+	Poligono2D *a;
+}
